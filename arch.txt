@@ -300,7 +300,6 @@ mirror.smith.geek.nz
 mirror.spaceint.fr
 mirror.stjschools.org
 mirror.sunred.org
-mirror.surf
 mirror.system.is
 mirror.t-home.mk
 mirror.tarellia.net
@@ -429,6 +428,7 @@ repo.iut.ac.ir
 repo.jing.rocks
 repo.miserver.it.umich.edu
 repo.skni.umcs.pl
+repository.su
 ridgewireless.mm.fcix.net
 ro.mirror.flokinet.net
 sg.mirrors.cicku.me
