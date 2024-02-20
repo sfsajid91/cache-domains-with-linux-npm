@@ -76,6 +76,7 @@ depo.turkiye.linux.web.tr
 dfw.mirror.rackspace.com
 distro.ibiblio.org
 edgeuno-bog2.mm.fcix.net
+elmirror.cl
 fastmirror.pp.ua
 forksystems.mm.fcix.net
 free.nchc.org.tw
@@ -243,6 +244,7 @@ mirror.lagoon.nc
 mirror.lastmikoi.net
 mirror.lcarilla.de
 mirror.lebedinets.ru
+mirror.leitecastro.com
 mirror.librelabucm.org
 mirror.lnx.sk
 mirror.lty.me
@@ -358,6 +360,7 @@ mirrors.hit.edu.cn
 mirrors.hosterion.ro
 mirrors.hostico.ro
 mirrors.ims.nksc.lt
+mirrors.iu13.net
 mirrors.janbruckner.de
 mirrors.jlu.edu.cn
 mirrors.jxust.edu.cn
