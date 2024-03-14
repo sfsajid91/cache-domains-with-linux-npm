@@ -197,6 +197,7 @@ mirror.ditatompel.com
 mirror.dkm.cz
 mirror.easyname.at
 mirror.efect.ro
+mirror.elightcap.com
 mirror.erickochen.nl
 mirror.es.its.nyu.edu
 mirror.espoch.edu.ec
