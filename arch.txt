@@ -153,7 +153,6 @@ mirror.4v1.in
 mirror.5i.fi
 mirror.adectra.com
 mirror.aktkn.sg
-mirror.albony.in
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
 mirror.anquan.cl
@@ -250,7 +249,6 @@ mirror.lnx.sk
 mirror.lty.me
 mirror.lyrahosting.com
 mirror.lzu.edu.cn
-mirror.maa.albony.in
 mirror.mangohost.net
 mirror.math.princeton.edu
 mirror.metalgamer.eu
@@ -262,7 +260,6 @@ mirror.mikrogravitation.org
 mirror.mirohost.net
 mirror.morgan.kr
 mirror.moson.org
-mirror.nag.albony.in
 mirror.nak-mci.ir
 mirror.neostrada.nl
 mirror.netcologne.de
