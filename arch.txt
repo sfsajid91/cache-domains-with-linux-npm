@@ -209,7 +209,6 @@ mirror.fsrv.services
 mirror.funami.tech
 mirror.gi.co.id
 mirror.guillaumea.fr
-mirror.hackingand.coffee
 mirror.hnd.cl
 mirror.host.ag
 mirror.hostart.az
