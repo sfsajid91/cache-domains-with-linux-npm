@@ -209,6 +209,7 @@ mirror.fsmg.org.nz
 mirror.fsrv.services
 mirror.funami.tech
 mirror.gi.co.id
+mirror.group.one
 mirror.guillaumea.fr
 mirror.hnd.cl
 mirror.host.ag
@@ -270,7 +271,6 @@ mirror.nishi.network
 mirror.nw-sys.ru
 mirror.nyist.edu.cn
 mirror.oldsql.cc
-mirror.one.com
 mirror.onet.pl
 mirror.onevip.mk
 mirror.orbit-os.com
