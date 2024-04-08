@@ -16,6 +16,7 @@ arch.phinau.de
 arch.sakamoto.pl
 arch.serverspace.co.uk
 arch.softver.org.mk
+arch.takehiko.pl
 arch.yhtez.xyz
 arch.yourlabs.org
 archimonde.ts.si
@@ -313,6 +314,7 @@ mirror.theo546.fr
 mirror.tiguinet.net
 mirror.truenetwork.ru
 mirror.tux.si
+mirror.twds.com.tw
 mirror.ubrco.de
 mirror.ufam.edu.br
 mirror.ufro.cl
