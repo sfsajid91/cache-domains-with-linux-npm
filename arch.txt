@@ -43,7 +43,6 @@ archlinux.mirror.kangaroot.net
 archlinux.mirror.liquidtelecom.com
 archlinux.mirror.liteserver.nl
 archlinux.mirror.net.in
-archlinux.mirror.pcextreme.nl
 archlinux.mirror.py
 archlinux.mirror.rafal.ca
 archlinux.mirror.root.lu
@@ -143,7 +142,6 @@ lysakermoen.com
 md.mirrors.hacktegic.com
 mir.archlinux.fr
 mirroir.labhouse.fr
-mirroir.wptheme.fr
 mirror-archlinux.webruimtehosting.nl
 mirror-hk.koddos.net
 mirror.0x.sg
@@ -444,7 +442,6 @@ ro.mirror.flokinet.net
 sg.mirrors.cicku.me
 southfront.mm.fcix.net
 super.quantum-mirror.hu
-suro.ubaya.ac.id
 syd.mirror.rackspace.com
 tux.rainside.sk
 us.mirrors.cicku.me
