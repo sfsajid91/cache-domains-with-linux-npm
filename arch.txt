@@ -1,7 +1,6 @@
 arch.goober.cloud
 arch.hu.fo
 arch.jensgutermuth.de
-arch.kyberorg.fi
 arch.midov.pl
 arch.mirror.constant.com
 arch.mirror.far.fi
