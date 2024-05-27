@@ -287,6 +287,7 @@ mirror.redrock.team
 mirror.reisenbauer.ee
 mirror.repository.id
 mirror.rol.ru
+mirror.rznet.fr
 mirror.sabay.com.kh
 mirror.sahil.world
 mirror.satis-faction.de
