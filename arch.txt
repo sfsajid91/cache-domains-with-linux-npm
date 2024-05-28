@@ -453,6 +453,7 @@ wcbmedia.io
 www.caco.ic.unicamp.br
 www.gtlib.gatech.edu
 www.gutscheindrache.com
+www.miraa.jp
 www.mirrorservice.org
 za.mirror.archlinux-br.org
 ziply.mm.fcix.net
