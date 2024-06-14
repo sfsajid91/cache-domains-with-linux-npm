@@ -77,7 +77,6 @@ fastmirror.pp.ua
 forksystems.mm.fcix.net
 free.nchc.org.tw
 ftp-stud.hs-esslingen.de
-ftp.acc.umu.se
 ftp.agdsn.de
 ftp.byfly.by
 ftp.cc.uoc.gr
@@ -133,6 +132,7 @@ is.mirror.flokinet.net
 jp.mirrors.cicku.me
 kebo.pens.ac.id
 kr.mirrors.cicku.me
+lidsol.fi-b.unam.mx
 linorg.usp.br
 linux.rz.rub.de
 lon.mirror.rackspace.com
@@ -148,6 +148,7 @@ mirror.23m.com
 mirror.2degrees.nz
 mirror.4v1.in
 mirror.5i.fi
+mirror.accum.se
 mirror.accuris.ca
 mirror.adectra.com
 mirror.aktkn.sg
@@ -267,7 +268,6 @@ mirror.nishi.network
 mirror.nw-sys.ru
 mirror.nyist.edu.cn
 mirror.oldsql.cc
-mirror.onet.pl
 mirror.onevip.mk
 mirror.orbit-os.com
 mirror.pagenotfound.de
@@ -308,6 +308,7 @@ mirror.telkomuniversity.ac.id
 mirror.terrahost.no
 mirror.theo546.fr
 mirror.tiguinet.net
+mirror.timtal.com.tr
 mirror.truenetwork.ru
 mirror.tux.si
 mirror.twds.com.tw
@@ -334,6 +335,7 @@ mirror.yuki.net.uk
 mirror1.sox.rs
 mirror2.evolution-host.com
 mirror2.totbb.net
+mirroronet.pl
 mirrors.163.com
 mirrors.acm.wpi.edu
 mirrors.advancedhosters.com
@@ -376,6 +378,7 @@ mirrors.mit.edu
 mirrors.myaegean.gr
 mirrors.n-ix.net
 mirrors.nav.ro
+mirrors.neterra.net
 mirrors.netix.net
 mirrors.neusoft.edu.cn
 mirrors.nic.cz
