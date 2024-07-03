@@ -10,6 +10,7 @@ arch.mirrors.lavatech.top
 arch.mirrors.pair.com
 arch.mithril.re
 arch.nimukaito.net
+arch.niranjan.co
 arch.petarmaric.com
 arch.phinau.de
 arch.sakamoto.pl
