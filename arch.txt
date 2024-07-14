@@ -63,9 +63,12 @@ archmirror.xyz
 archmirror1.octyl.net
 arlm.tyzoid.com
 artfiles.org
+at.mirrors.cicku.me
 au.mirrors.cicku.me
+br.mirrors.cicku.me
 ca.mirrors.cicku.me
 ca.us.mirror.archlinux-br.org
+ch.mirrors.cicku.me
 codingflyboy.mm.fcix.net
 coresite.mm.fcix.net
 de.mirrors.cicku.me
@@ -74,8 +77,10 @@ dfw.mirror.rackspace.com
 distro.ibiblio.org
 edgeuno-bog2.mm.fcix.net
 elmirror.cl
+es.mirrors.cicku.me
 fastmirror.pp.ua
 forksystems.mm.fcix.net
+fr.mirrors.cicku.me
 free.nchc.org.tw
 ftp-stud.hs-esslingen.de
 ftp.agdsn.de
@@ -119,6 +124,7 @@ ftp.vectranet.pl
 ftp.wrz.de
 ftp.yzu.edu.tw
 ftpmirror.infania.net
+gb.mirrors.cicku.me
 glua.ua.pt
 gluttony.sin.cvut.cz
 gsl-syd.mm.fcix.net
@@ -130,6 +136,7 @@ in-mirror.garudalinux.org
 in.mirrors.cicku.me
 irltoolkit.mm.fcix.net
 is.mirror.flokinet.net
+it.mirrors.cicku.me
 jp.mirrors.cicku.me
 kebo.pens.ac.id
 kr.mirrors.cicku.me
@@ -282,6 +289,7 @@ mirror.ps.kz
 mirror.puzzle.ch
 mirror.quantum5.ca
 mirror.rackspace.com
+mirror.raiolanetworks.com
 mirror.redrock.team
 mirror.reisenbauer.ee
 mirror.repository.id
@@ -421,6 +429,7 @@ mirrors.zju.edu.cn
 mnvoip.mm.fcix.net
 muug.ca
 nl.mirror.flokinet.net
+nl.mirrors.cicku.me
 nnenix.mm.fcix.net
 nocix.mm.fcix.net
 nova.quantum-mirror.hu
@@ -445,11 +454,15 @@ repo.skni.umcs.pl
 repository.su
 ridgewireless.mm.fcix.net
 ro.mirror.flokinet.net
+ru.mirrors.cicku.me
+sa.mirrors.cicku.me
 sg.mirrors.cicku.me
 southfront.mm.fcix.net
 super.quantum-mirror.hu
 syd.mirror.rackspace.com
 tux.rainside.sk
+tw.mirrors.cicku.me
+us.arch.niranjan.co
 us.mirrors.cicku.me
 uvermont.mm.fcix.net
 volico.mm.fcix.net
@@ -461,4 +474,5 @@ www.gutscheindrache.com
 www.miraa.jp
 www.mirrorservice.org
 za.mirror.archlinux-br.org
+za.mirrors.cicku.me
 ziply.mm.fcix.net
