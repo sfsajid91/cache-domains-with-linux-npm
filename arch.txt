@@ -1,3 +1,4 @@
+al.arch.niranjan.co
 arch.goober.cloud
 arch.hu.fo
 arch.jensgutermuth.de
@@ -71,6 +72,7 @@ ca.us.mirror.archlinux-br.org
 ch.mirrors.cicku.me
 codingflyboy.mm.fcix.net
 coresite.mm.fcix.net
+de.arch.niranjan.co
 de.mirrors.cicku.me
 depo.turkiye.linux.web.tr
 dfw.mirror.rackspace.com
