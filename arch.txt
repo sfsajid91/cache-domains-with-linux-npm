@@ -310,6 +310,7 @@ mirror.spaceint.fr
 mirror.stjschools.org
 mirror.sunred.org
 mirror.system.is
+mirror.syxpi.fr
 mirror.t-home.mk
 mirror.tarellia.net
 mirror.telepoint.bg
