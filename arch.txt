@@ -17,7 +17,6 @@ arch.phinau.de
 arch.sakamoto.pl
 arch.serverspace.co.uk
 arch.softver.org.mk
-arch.takehiko.pl
 arch.yhtez.xyz
 arch.yourlabs.org
 archlinux-mirror.cloud.mu
