@@ -206,7 +206,6 @@ mirror.ditatompel.com
 mirror.dkm.cz
 mirror.easyname.at
 mirror.efect.ro
-mirror.es.its.nyu.edu
 mirror.espoch.edu.ec
 mirror.ette.biz
 mirror.faizuladib.com
@@ -392,7 +391,6 @@ mirrors.myaegean.gr
 mirrors.n-ix.net
 mirrors.nav.ro
 mirrors.neterra.net
-mirrors.netix.net
 mirrors.neusoft.edu.cn
 mirrors.nic.cz
 mirrors.nix.org.ua
