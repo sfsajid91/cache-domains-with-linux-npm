@@ -390,7 +390,6 @@ mirrors.mit.edu
 mirrors.myaegean.gr
 mirrors.n-ix.net
 mirrors.nav.ro
-mirrors.neterra.net
 mirrors.neusoft.edu.cn
 mirrors.nic.cz
 mirrors.nix.org.ua
