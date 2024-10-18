@@ -12,7 +12,6 @@ arch.mirrors.lavatech.top
 arch.mirrors.pair.com
 arch.mithril.re
 arch.nimukaito.net
-arch.niranjan.co
 arch.petarmaric.com
 arch.phinau.de
 arch.sakamoto.pl
@@ -136,6 +135,7 @@ iad.mirror.rackspace.com
 iad.mirrors.misaka.one
 il.us.mirror.archlinux-br.org
 in-mirror.garudalinux.org
+in.arch.niranjan.co
 in.mirrors.cicku.me
 irltoolkit.mm.fcix.net
 is.mirror.flokinet.net
@@ -454,9 +454,11 @@ repo.miserver.it.umich.edu
 repo.skni.umcs.pl
 repository.su
 ridgewireless.mm.fcix.net
+ro.arch.niranjan.co
 ro.mirror.flokinet.net
 ru.mirrors.cicku.me
 sa.mirrors.cicku.me
+sg.arch.niranjan.co
 sg.mirrors.cicku.me
 southfront.mm.fcix.net
 super.quantum-mirror.hu
