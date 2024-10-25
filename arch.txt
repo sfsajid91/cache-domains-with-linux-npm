@@ -27,6 +27,7 @@ archlinux.ccns.ncku.edu.tw
 archlinux.cs.nycu.edu.tw
 archlinux.cu.be
 archlinux.datagr.am
+archlinux.gay
 archlinux.grena.ge
 archlinux.interhost.co.il
 archlinux.ip-connect.vn.ua
@@ -408,6 +409,7 @@ mirrors.radwebhosting.com
 mirrors.reitarovskyi.tech
 mirrors.rit.edu
 mirrors.rutgers.edu
+mirrors.saswata.cc
 mirrors.shanghaitech.edu.cn
 mirrors.sonic.net
 mirrors.standaloneinstaller.com
@@ -446,6 +448,7 @@ pkg.adfinis.com
 plug-mirror.rcac.purdue.edu
 quantum-mirror.hu
 repo.br.ee
+repo.c48.uk
 repo.hyron.dev
 repo.ialab.dsu.edu
 repo.iut.ac.ir
