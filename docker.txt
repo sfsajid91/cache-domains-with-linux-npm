@@ -3,3 +3,4 @@ auth.docker.io
 registry.docker.io
 docker.io
 production.cloudflare.docker.com
+registry.docker-cn.com
