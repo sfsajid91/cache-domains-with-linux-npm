@@ -1,0 +1,5 @@
+registry.npmjs.org
+registry.npmjs.com
+registry.yarnpkg.com
+registry.npmmirror.com
+skimdb.npmjs.com
