@@ -141,6 +141,11 @@
             "name": "docker",
             "description": "CDN for docker",
             "domain_files": ["docker.txt"]
+        },
+        {
+            "name": "fedora",
+            "description": "CDN for fedora",
+            "domain_files": ["fedora.txt"]
         }
     ]
 }

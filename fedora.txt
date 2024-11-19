@@ -1,0 +1,9 @@
+mirrorlist.centos.org
+mirrors.fedoraproject.org
+download.fedoraproject.org
+dl.fedoraproject.org
+archives.fedoraproject.org
+kojipkgs.fedoraproject.org
+repo.fedora.md
+rpmfusion.org
+epel.mirrorlist.centos.org
